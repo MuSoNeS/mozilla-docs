@@ -1,0 +1,58 @@
+html{
+    font-size: 30px;
+    font-family: "Tiny5", sans-serif;
+    font-style: normal;
+    background-color: bisque;
+}
+
+body{
+    width: 600px;
+    margin: 0 auto;
+    background-color: aqua;
+    padding: 0 20px 20px 20px;
+    border: 5px solid black;
+    justify-content: center;
+}
+ul{
+    font-size: 20px;
+    text-shadow: 3px 3px 1px gray;
+}
+ol{
+    font-size: 20px;
+    text-shadow: 3px 3px 1px gray;
+}
+a{
+    font-size: 20px;
+}
+a:hover{
+    font-size: 25px;
+}
+.mozilla-image{
+    width: 100px;
+    height: 100px;
+    display: block;
+}
+.mozilla-image:hover{
+    width: 150px;
+    height: 150px;
+    display: block;
+}
+
+button{
+    text-shadow: 3px 3px 1px gray;
+    background-color: aqua;
+    font-size: 30px;
+    font-family: "Tiny5", sans-serif;
+    font-style: normal;
+    width: 200px;
+    height: 50px;
+}
+button:hover{
+    text-shadow: 3px 3px 1px gray;
+    background-color: aqua;
+    font-size: 50;
+    font-family: "Tiny5", sans-serif;
+    font-style: normal;
+    width: 220px;
+    height: 60px;
+}
